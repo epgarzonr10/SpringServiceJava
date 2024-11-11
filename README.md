@@ -43,6 +43,6 @@ mvn spring-boot:run
 ```
 ## Results
 <p align="center">
-    <img src="./Img/Hello.png" alt="Hello">
+  <img src="Img/Hello.PNG" alt="Hello">
 </p>
 
