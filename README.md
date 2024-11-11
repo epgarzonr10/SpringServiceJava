@@ -32,3 +32,17 @@ To run this application locally, you will need the following:
 ```bash
 git clone [https://github.com/epgarzonr10/SpringServiceJava.git]
 cd SpringServiceJava
+```
+## Build the Project
+```bash
+mvn clean install
+```
+### Run the Application
+```bash
+mvn spring-boot:run
+```
+## Results
+<p align="center">
+    <img src="./Img/Hello.png" alt="Hello">
+</p>
+
