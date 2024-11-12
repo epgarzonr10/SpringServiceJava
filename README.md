@@ -1,8 +1,4 @@
-# Spring Boot Microservice Example
 
-This is a simple Spring Boot application that exposes a REST API endpoint.
-
-## Description
 # Spring Boot Microservice Example
 
 This is a simple Spring Boot application that exposes a REST API endpoint.
@@ -45,4 +41,18 @@ mvn spring-boot:run
 <p align="center">
   <img src="Img/Hello.PNG" alt="Hello">
 </p>
+
+## Docker Hub Repository
+
+The Docker image for this project is hosted on Docker Hub. You can find all the details about how the Docker image was built, how to pull it, and how to run it in the repository.
+
+### Link to the Repository:
+
+[epgarzonr/springservice](https://hub.docker.com/repository/docker/epgarzonr/springservice/general)
+
+> **Note**  
+> Visit the link to find:  
+> - How to build and run the image.  
+> - Dockerfile construction details.  
+> - Pre-built images ready to use.  
 
